@@ -48,4 +48,4 @@
 
 ## 📌 Screenshot | Demo:
 
-[Demo](https://github.com/maneeshbkrishna/Logistic-PowerBi-Dashboard/blob/main/Logistic%20PowerBi%20Project%20Image.png)
+[Dashboard](https://github.com/maneeshbkrishna/Logistic-PowerBi-Dashboard/blob/main/Logistic%20PowerBi%20Project%20Image.png)
