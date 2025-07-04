@@ -4,6 +4,8 @@
 
 #### This Power BI dashboard was designed to provide a comprehensive overview of logistics performance across multiple product categories and geographic regions. The dashboard offers real-time insights into shipments, revenue, delivery timelines, and employee performance, helping stakeholders make faster and more data-driven decisions
 
+![Dashboard Preview](./Logistic%20PowerBi%20Project%20Image.png)
+
 ## 🧰 Tools & Technologies:
 
 * #### Power BI Desktop – for data modeling, visualization, and dashboard design
